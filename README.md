@@ -58,3 +58,7 @@ The `ShapeCalculator` class provides methods to calculate the area of different 
 
 - `calculateCircleArea(double radius)`: Calculates the area of a circle with the given radius.
 - `calculateRectangleArea(double length, double width)`: Calculates the area of a rectangle with the given length and width.
+
+## Main Method 
+
+The `Main` class serves as the entry point for running tests on the utility methods provided in this repository. It contains sample test cases for each utility method. You can run the `Main` class to execute these test cases and verify the functionality of each method.
