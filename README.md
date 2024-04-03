@@ -1,6 +1,6 @@
-# Java Utility Classes
+# Random Challenges 1
 
-This repository contains several Java utility classes for performing various tasks.
+This is a Java utility repository containing various challenge solutions.
 
 ## ScoreCalculator
 
@@ -58,8 +58,3 @@ The `ShapeCalculator` class provides methods to calculate the area of different 
 
 - `calculateCircleArea(double radius)`: Calculates the area of a circle with the given radius.
 - `calculateRectangleArea(double length, double width)`: Calculates the area of a rectangle with the given length and width.
-
-## Usage
-
-To use these utility classes, simply import the desired class into your Java project and call its methods as needed.
-
